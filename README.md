@@ -2,6 +2,6 @@
 
 ## TODO:
 
-- [] Update to C++14/17
-- [] Make it cross platform
-- [] Improve overall structure of the code
+- [ ] Update to C++14/17
+- [ ] Make it cross platform
+- [ ] Improve overall structure of the code
